@@ -1,0 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
+@import url(http://fonts.googleapis.com/css?family=Comfortaa);
+
+
+body{
+  background-color:#c0392b;
+  margin:0;
+  font-family:'Indie Flower', sans-serif;
+  font-weight:300;
+  color:#ffffff;
+}
+
+.main{
+  height:110px;
+  width:100%;
+  text-align:center;
+  top:50%;
+  margin-top:-55px;
+  position:absolute;
+}
+
+hr{
+  width:100px;
+}
+
+h1{
+  font-weight:300;
+  line-height:0;
+  font-size:55px;
+  margin-bottom:50px;
+  font-family: 'Comfortaa', sans-serif;
+  text-transform:uppercase;
+	font-weight: normal;
+	font-style: normal;
+}
+
+h2{
+  font-weight:300;
+  line-height:0;
+  font-size:40px;
+  margin-bottom:50px;
+}
+
+a{
+  color:#fff;
+  text-decoration:none;
+  transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+}
+
+a:hover{
+  color:#91d3dd;
+}
